@@ -133,6 +133,10 @@ $|a|-|b| \le |a\pm b|\le |a|+|b|$
 
 ***
 
+#### 二倍角公式
+
+![正切二倍角](https://bkimg.cdn.bcebos.com/formula/0a86695a90badbab6599f2d5f3b0f23d.svg)
+
 
 
 

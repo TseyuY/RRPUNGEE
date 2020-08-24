@@ -1,0 +1,206 @@
+{
+	"root": {
+		"id": "cttrppih",
+		"text": "第五章 资本主义本质及规律",
+		"layout": "map",
+		"children": [
+			{
+				"id": "vxyjigog",
+				"text": "第一节 商品经济和价值规律",
+				"side": "right",
+				"children": [
+					{
+						"id": "booknood",
+						"text": "一 、自然经济"
+					},
+					{
+						"id": "yocfixfb",
+						"text": "二、商品经济",
+						"children": [
+							{
+								"id": "iwzvjedp",
+								"text": "产生的历史条件"
+							},
+							{
+								"id": "pbarpzfz",
+								"text": "商品经济的本质"
+							}
+						]
+					},
+					{
+						"id": "ijxgcfjj",
+						"text": "三、商品的二因素",
+						"children": [
+							{
+								"id": "dkhkmnii",
+								"text": "i)商品二因素"
+							},
+							{
+								"id": "pgiazxaq",
+								"text": "<b>ii)使用价值</b>",
+								"color": "#e33"
+							},
+							{
+								"id": "drwagmnq",
+								"text": "<b>iii)价值</b>"
+							},
+							{
+								"id": "tojyimlb",
+								"text": "iv)商品的价值和使用价值的对立统一"
+							}
+						]
+					},
+					{
+						"id": "ttoejjod",
+						"text": "四、生产商品的劳动二重性",
+						"children": [
+							{
+								"id": "zjxbtipe",
+								"text": "<b>i)具体劳动和抽象劳动</b>"
+							},
+							{
+								"id": "oeawsxfq",
+								"text": "<b>ii)具体劳动和抽象劳动的对立统一关系</b>"
+							}
+						]
+					},
+					{
+						"id": "yuytsxoa",
+						"text": "五、商品价值量的决定",
+						"children": [
+							{
+								"id": "nkjddzcl",
+								"text": "<b>i)社会必要劳动时间决定商品的价值量</b>"
+							},
+							{
+								"id": "pobkoten",
+								"text": "<i>ii)商品的价值量与劳动生产率的关系</i>"
+							},
+							{
+								"id": "pshdslfh",
+								"text": "iii)形成商品价值量的劳动以简单劳动为尺度"
+							}
+						]
+					},
+					{
+						"id": "fblcyrsz",
+						"text": "六、价值形式的发展与货币的产生;货币的本质与职能",
+						"children": [
+							{
+								"id": "ukquddvh",
+								"text": "i)价值形式的发展与货币的产生"
+							},
+							{
+								"id": "xlrxbinx",
+								"text": "<b><i>ii)货币的本质和职能</i></b>",
+								"children": [
+									{
+										"id": "sgaaftkz",
+										"text": "本质"
+									},
+									{
+										"id": "kscupoey",
+										"text": "五种职能"
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "wdtulqai",
+						"text": "<b>七、价值规律及其作用</b>",
+						"children": [
+							{
+								"id": "aqyzyzxu",
+								"text": "i)价值规律的内容"
+							},
+							{
+								"id": "mscfefis",
+								"text": "ii)价值规律的表现形式"
+							},
+							{
+								"id": "djeqvlhv",
+								"text": "iii)价值规律的作用",
+								"children": [
+									{
+										"id": "inryqrfe",
+										"text": "消极3"
+									},
+									{
+										"id": "lnnahntn",
+										"text": "积极3"
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "tlayjaal",
+						"text": "八、以私有制为基础的商品经济的基本矛盾",
+						"children": [
+							{
+								"id": "ozogbmrn",
+								"text": "i)私人劳动和社会劳动"
+							},
+							{
+								"id": "hwjgnmsq",
+								"text": "<b>ii)私人劳动和社会劳动的矛盾构成私有制商品经济的基本矛盾&nbsp;</b>"
+							},
+							{
+								"id": "izyqdbjz",
+								"text": "<b>iii)资本主义的基本矛盾</b>"
+							}
+						]
+					},
+					{
+						"id": "suibjaoy",
+						"text": "九、马克思劳动价值论的理论和实践意义"
+					},
+					{
+						"id": "rttkwkez",
+						"text": "十、深化马克思主义劳动价值论的认识"
+					}
+				]
+			},
+			{
+				"id": "vxwqocdv",
+				"text": "第二节 资本主义经济制度的本质",
+				"side": "left",
+				"children": [
+					{
+						"id": "axalrzei",
+						"text": "一、资本主义经济制度的产生",
+						"children": [
+							{
+								"id": "fzhmxczg",
+								"text": "i)前资本主义社会形态的演进和更替"
+							},
+							{
+								"id": "kjkxqvsh",
+								"text": "ii)资本主义生产关系的产生"
+							},
+							{
+								"id": "nbtiyzbk",
+								"text": "iii)资本的原始积累",
+								"children": [
+									{
+										"id": "ngtirefk",
+										"text": "①资本原始积累的内涵"
+									},
+									{
+										"id": "burwnzpz",
+										"text": "②资本原始积累的途径"
+									}
+								]
+							},
+							{
+								"id": "spizirvv",
+								"text": "iv)资本主义生产方式的确立"
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

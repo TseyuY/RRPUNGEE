@@ -496,6 +496,117 @@
 						]
 					}
 				]
+			},
+			{
+				"id": "gefluoin",
+				"text": "第三节 资本主义政治制度和意识形态",
+				"side": "right",
+				"children": [
+					{
+						"id": "crldctqg",
+						"text": "一、资本主义政治制度及其本质",
+						"children": [
+							{
+								"id": "lsfsmhyt",
+								"text": "i)资本主义国家的职能和本质",
+								"children": [
+									{
+										"id": "nefabxxj",
+										"text": "①资本主义国家的职能"
+									},
+									{
+										"id": "cbbgqftq",
+										"text": "②资本主义国家的本质"
+									}
+								]
+							},
+							{
+								"id": "rfohbvre",
+								"text": "<b>ii)资本主义的民主制度及其本质</b>",
+								"children": [
+									{
+										"id": "qtwqhxzj",
+										"text": "①资本主义政治制度",
+										"children": [
+											{
+												"id": "gnuhqqbm",
+												"text": "一)资本主义民主制度与法制",
+												"children": [
+													{
+														"id": "japcrfnt",
+														"text": "Ⅰ资本主义民主制度"
+													},
+													{
+														"id": "pjsspwaa",
+														"text": "Ⅱ资本主义法制"
+													}
+												]
+											},
+											{
+												"id": "xovxszuo",
+												"text": "二)资本主义国家的政权组织形式"
+											},
+											{
+												"id": "utbksrjb",
+												"text": "三)选举制度"
+											},
+											{
+												"id": "ixflkpnz",
+												"text": "四)政党制度"
+											}
+										]
+									},
+									{
+										"id": "ysywxurz",
+										"text": "②资本主义民主制度的本质"
+									},
+									{
+										"id": "viiourlr",
+										"text": "<b>③资本主义制度的进步作用和局限性(资本主义政治制度的评价)</b>",
+										"children": [
+											{
+												"id": "lcegsoti",
+												"text": "①资本主义政治制度的形成和发展在人类社会历史的发展进程中曾起过重要的进步作用"
+											},
+											{
+												"id": "bkmautxp",
+												"text": "②资本主义政治制度的局限性"
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "jhunttza",
+						"text": "二、资本主义意识形态及其本质",
+						"children": [
+							{
+								"id": "lqwbdric",
+								"text": "i)资本主义意识形态的形成",
+								"children": [
+									{
+										"id": "ffzibfuu",
+										"text": "①资本主义意识形态的内涵"
+									},
+									{
+										"id": "qypfuyag",
+										"text": "②资本主义意识形态的产生和确立"
+									}
+								]
+							},
+							{
+								"id": "poqrnurt",
+								"text": "<b>ii)资本主义意识形态的产生和确立</b>"
+							},
+							{
+								"id": "hptookmd",
+								"text": "iii)辩证地分析资本主义意识形态"
+							}
+						]
+					}
+				]
 			}
 		]
 	}

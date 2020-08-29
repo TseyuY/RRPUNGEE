@@ -1,0 +1,297 @@
+{
+	"root": {
+		"id": "nlbovrnf",
+		"text": "第二章 新民主主义革命理论",
+		"layout": "map",
+		"children": [
+			{
+				"id": "bwrurcqb",
+				"text": "第一节 新民主主义革命理论形成的依据",
+				"side": "right",
+				"children": [
+					{
+						"id": "uqngglzd",
+						"text": "一、近代中国国情和中国革命的时代特征",
+						"children": [
+							{
+								"id": "vvcjeuha",
+								"text": "(一)认清中国国情，是解决中国革命问题的基本前提"
+							},
+							{
+								"id": "prrwunsl",
+								"text": "<b>(二)近代中国国情</b>",
+								"children": [
+									{
+										"id": "tunmbrxa",
+										"text": "1.社会性质"
+									},
+									{
+										"id": "wlghveki",
+										"text": "2.主要矛盾"
+									},
+									{
+										"id": "ziscjeiq",
+										"text": "3.革命的根本任务和性质"
+									}
+								]
+							},
+							{
+								"id": "wurswiwj",
+								"text": "(三)近代中国革命的时代特征(从旧民主主义革命到新民主主义革命的转变)",
+								"children": [
+									{
+										"id": "uieummsx",
+										"text": "1.旧民主主义革命"
+									},
+									{
+										"id": "uvyfbcyl",
+										"text": "2.新民主主义革命"
+									},
+									{
+										"id": "sgtobzkk",
+										"text": "<b>3.旧民主主义革命转变为新民主主义革命</b>"
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "glfbvget",
+						"text": "<b>二、新民主主义革命理论的实践基础</b>",
+						"children": [
+							{
+								"id": "eqcuzddm",
+								"text": "(一)旧民主主义革命的失败呼唤新的革命理论"
+							},
+							{
+								"id": "hcbceuyu",
+								"text": "(二)新民主主义革命的艰辛探索奠定了革命理论形成的实践基础"
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "mtuemele",
+				"text": "第二节 新民主主义革命的总路线和基本纲领",
+				"side": "right",
+				"children": [
+					{
+						"id": "nseombuy",
+						"text": "一、新民主主义革命的总路线",
+						"children": [
+							{
+								"id": "aqztftnd",
+								"text": "(一)新民主主义革命总路线的提出",
+								"children": [
+									{
+										"id": "tsoydnzv",
+										"text": "1.总路线的含义"
+									},
+									{
+										"id": "kuwybpth",
+										"text": "<b>2.总路线的提出</b>"
+									},
+									{
+										"id": "djzxnyfs",
+										"text": "3.总路线的完整表述"
+									}
+								]
+							},
+							{
+								"id": "rsydxllk",
+								"text": "(二)新民主主义革命的对象",
+								"children": [
+									{
+										"id": "dgmsqqlr",
+										"text": "1.分清敌友，这是革命的首要问题"
+									},
+									{
+										"id": "akxmklvu",
+										"text": "2.新民主主义革命的对象",
+										"children": [
+											{
+												"id": "yzgxndvu",
+												"text": "(1)帝国主义是中国革命的首要对象"
+											},
+											{
+												"id": "cigkuugw",
+												"text": "(2)封建主义是中国革命的另一对象"
+											},
+											{
+												"id": "ihtmckew",
+												"text": "(3)官僚资本主义也是中国革命的对象"
+											}
+										]
+									},
+									{
+										"id": "vohgsjtg",
+										"text": "3.在不同历史阶段，集中反对的主要敌人有所不同"
+									},
+									{
+										"id": "hvvknbnq",
+										"text": "4.民族革命与民主革命的相互关系"
+									}
+								]
+							},
+							{
+								"id": "klvqqerp",
+								"text": "<b>(三)新民主主义革命的动力</b>",
+								"children": [
+									{
+										"id": "vwbtrjje",
+										"text": "1.新民主主义革命的动力包括无产阶级、农民阶级、城市小资产阶级和民族资产阶级"
+									},
+									{
+										"id": "ajjqyhwq",
+										"text": "2.中国无产阶级是中国革命的最基本动力"
+									},
+									{
+										"id": "lxvznvpd",
+										"text": "3.农民是中国革命的主力军，其中的贫雇农是无产阶级最可靠的同盟军，而中农是无产阶级可靠的同盟军"
+									},
+									{
+										"id": "wowdnfyt",
+										"text": "4.小城市资产阶级是中国革命的动力之一"
+									},
+									{
+										"id": "eyozsaxv",
+										"text": "5.民族资产阶级也是中国革命的动力之一"
+									}
+								]
+							},
+							{
+								"id": "pwjjpoxr",
+								"text": "<b><i>(四)新民主主义革命的领导力量</i></b>",
+								"children": [
+									{
+										"id": "qndtivbl",
+										"text": "1.无产阶级的领导权是中国革命的中心问题，也是新民主主义革命理论的核心问题"
+									},
+									{
+										"id": "xxehxsue",
+										"text": "2.无产阶级的领导权是由历史和中国无产阶级的特点决定的"
+									},
+									{
+										"id": "msctemmj",
+										"text": "3.无产阶级及其政党对中国革命的领导权不是自然而然得来的，而是在与资产阶级争夺领导权的斗争中实现的"
+									}
+								]
+							},
+							{
+								"id": "gphvaqsv",
+								"text": "<b><i>(五)新民主主义革命的性质和前途</i></b>",
+								"children": [
+									{
+										"id": "efdfvtjh",
+										"text": "1.社会性质和革命任务决定革命性质"
+									},
+									{
+										"id": "tzkrxsrt",
+										"text": "2.新旧民主主义革命的区别"
+									},
+									{
+										"id": "rikejsvy",
+										"text": "3.新民主主义革命与社会主义革命的联系与区别",
+										"children": [
+											{
+												"id": "gjmchkkv",
+												"text": "(1)区别"
+											},
+											{
+												"id": "aywgiraj",
+												"text": "(2)联系"
+											}
+										]
+									},
+									{
+										"id": "mphvxwqa",
+										"text": "4.党历史上关于新民主主义革命的性质和前途上的错误观点"
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "jjlrxnoe",
+						"text": "二、新民主主义的基本纲领",
+						"children": [
+							{
+								"id": "juslmymn",
+								"text": "(一)新民主主义的基本纲领的提出"
+							},
+							{
+								"id": "skxdipde",
+								"text": "<b>(二)新民主主义的政治纲领、经济纲领和文化纲领</b>",
+								"children": [
+									{
+										"id": "fitamqye",
+										"text": "1.新民主主义的政治纲领",
+										"children": [
+											{
+												"id": "pgmhlhbd",
+												"text": "(1)新民主主义的政治纲领的内容"
+											},
+											{
+												"id": "owaodwdu",
+												"text": "(2)新民主主义共和国的性质"
+											},
+											{
+												"id": "euhietxe",
+												"text": "(3)新民主主义国家的国体与政体"
+											}
+										]
+									},
+									{
+										"id": "xzfczhvr",
+										"text": "2.新民主主义的经济纲领",
+										"children": [
+											{
+												"id": "bmapzwib",
+												"text": "(1)新民主主义的经济纲领的内容"
+											},
+											{
+												"id": "aroceoso",
+												"text": "(2)没收封建地主姐的土地归农民所有"
+											},
+											{
+												"id": "twdsoegh",
+												"text": "(3)没收官僚资本贵新民主主义国家所有"
+											},
+											{
+												"id": "amxvizuf",
+												"text": "(4)保护民族工商业"
+											}
+										]
+									},
+									{
+										"id": "utxdopxv",
+										"text": "3.新民主主义的文化纲领",
+										"children": [
+											{
+												"id": "bjfytzep",
+												"text": "(1)新民主主义的文化纲领的内容"
+											},
+											{
+												"id": "appfltzn",
+												"text": "(2)新民主主义文化是民族的"
+											},
+											{
+												"id": "tecwxtry",
+												"text": "(3)新民主主义文化是科学的"
+											},
+											{
+												"id": "gpijzpee",
+												"text": "(4)新民主主义文化是人民大众的文化，也就是民主的文化"
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

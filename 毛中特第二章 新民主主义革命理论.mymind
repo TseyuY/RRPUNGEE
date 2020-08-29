@@ -291,6 +291,161 @@
 						]
 					}
 				]
+			},
+			{
+				"id": "cplozrzn",
+				"text": "第三节 新民主主义革命的道路和基本经验",
+				"side": "right",
+				"children": [
+					{
+						"id": "kqjvggkd",
+						"text": "一、新民主主义革命的道路",
+						"children": [
+							{
+								"id": "geetgqkl",
+								"text": "<b>(一)新民主主义革命道路的提出</b>",
+								"children": [
+									{
+										"id": "aipsgvrh",
+										"text": "1.党成立初期，首先把工作重心放在城市"
+									},
+									{
+										"id": "ywmbeujx",
+										"text": "2.1927年大革命失败后，党的中心开始转向农村"
+									},
+									{
+										"id": "locaqbls",
+										"text": "3.红军长征到达陕北后"
+									}
+								]
+							},
+							{
+								"id": "bmgbqzxt",
+								"text": "<b><i>(二)新民主主义革命道路形成的必然性</i></b>",
+								"children": [
+									{
+										"id": "zrmupzqz",
+										"text": "1.必要性"
+									},
+									{
+										"id": "fxycexbo",
+										"text": "2.可能性"
+									}
+								]
+							},
+							{
+								"id": "vwdtadsj",
+								"text": "(三)新民主主义革命道路的内容及意义",
+								"children": [
+									{
+										"id": "rrjjofyt",
+										"text": "1.新民主主义革命道路的内容"
+									},
+									{
+										"id": "jgqmtncz",
+										"text": "2.中国革命道路理论的意义"
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "ddbwadnb",
+						"text": "二、新民主主义革命的三大法宝",
+						"children": [
+							{
+								"id": "yzaxeequ",
+								"text": "(一)三大法宝的提出"
+							},
+							{
+								"id": "heavorgh",
+								"text": "<b>(二)三大法宝的相互关系</b>"
+							},
+							{
+								"id": "mihdltlu",
+								"text": "<b>(三)统一战线</b>",
+								"children": [
+									{
+										"id": "tjlupzgc",
+										"text": "1.建立革命统一战线的必要性"
+									},
+									{
+										"id": "ivowiawa",
+										"text": "2.建立革命统一战线的可能性"
+									},
+									{
+										"id": "vyacxtdv",
+										"text": "3.革命统一战线历程"
+									},
+									{
+										"id": "cruyozll",
+										"text": "4.革命统一战线的内容"
+									},
+									{
+										"id": "oirrqzwf",
+										"text": "5.建立、巩固和发展革命统一战线的实践经验"
+									}
+								]
+							},
+							{
+								"id": "ljqvefnv",
+								"text": "(四)武装斗争",
+								"children": [
+									{
+										"id": "relipvpy",
+										"text": "1.武装斗争是中国革命的特点和优点之一"
+									},
+									{
+										"id": "xhovqqtf",
+										"text": "2.建立新型人民军队",
+										"children": [
+											{
+												"id": "hmcrronf",
+												"text": "(1)必须建立一支新型的人民军队"
+											},
+											{
+												"id": "nphhzhbs",
+												"text": "(2)建设新型人民军队的经验"
+											}
+										]
+									}
+								]
+							},
+							{
+								"id": "aaknkqgo",
+								"text": "<b>(五)党的建设</b>",
+								"children": [
+									{
+										"id": "fguchgnu",
+										"text": "1.加强党的建设的必要性"
+									},
+									{
+										"id": "xsdbxofv",
+										"text": "2.当加强自身建设的经验",
+										"children": [
+											{
+												"id": "jdnndbej",
+												"text": "(1)必须把思想建设始终放在党的建设的首位，关键是要以无产阶级思想克服和改造各种非无产阶级思想"
+											},
+											{
+												"id": "zxzzjrrn",
+												"text": "(2)在加强党的思想建设的同时，必须加强党的组织建设和作风建设"
+											},
+											{
+												"id": "wxrnjxqg",
+												"text": "(3)必须联系党的政治路线加强党的建设"
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "kcbkpcyh",
+						"text": "三、新民主主义革命理论的意义"
+					}
+				]
 			}
 		]
 	}

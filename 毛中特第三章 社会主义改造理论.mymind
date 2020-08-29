@@ -1,0 +1,208 @@
+{
+	"root": {
+		"id": "qkktaohh",
+		"text": "第三章 社会主义改造理论",
+		"layout": "map",
+		"children": [
+			{
+				"id": "mkaxfbfx",
+				"text": "第一节 从新民主主义革命到社会主义的转变",
+				"side": "right",
+				"children": [
+					{
+						"id": "ndmagctg",
+						"text": "一、新民主主义革命是一个过渡性的社会",
+						"children": [
+							{
+								"id": "qzljcfzm",
+								"text": "(一)新民主主义理论的发展"
+							},
+							{
+								"id": "rxddawyb",
+								"text": "<b><i>(二)新民主主义社会属于社会主义体系的过渡性的社会</i></b>",
+								"children": [
+									{
+										"id": "gmtctcxf",
+										"text": "1.新民主主义社会是由新民主主义向社会主义转变的过渡性的社会形态"
+									},
+									{
+										"id": "oxojrnnv",
+										"text": "2.新民主主义社会的经济成分"
+									},
+									{
+										"id": "xbpzwyhq",
+										"text": "3.新民主主义社会的阶级构成与主要矛盾"
+									},
+									{
+										"id": "ceqywuij",
+										"text": "4.新民主主义社会是属于社会主义体系的，是逐步过渡到社会主义社会的过渡性质的社会"
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "begqgils",
+						"text": "二、党在过渡时期的总路线及其理论根据",
+						"children": [
+							{
+								"id": "xwocfxjn",
+								"text": "<b>(一)对从新民主主义社会过渡到社会主义社会的时间和方式的认识过程</b>",
+								"children": [
+									{
+										"id": "gegbjlzp",
+										"text": "1.最初设想(先工业化建设，再一举过渡)"
+									},
+									{
+										"id": "gpdqprqk",
+										"text": "2.新的认识(建设和改造同时并举)"
+									}
+								]
+							},
+							{
+								"id": "rtyeseip",
+								"text": "<b>(二)过渡时期的总路线</b>",
+								"children": [
+									{
+										"id": "tknygpko",
+										"text": "1.过渡时期的总路线的提出"
+									},
+									{
+										"id": "wvkirimy",
+										"text": "2.总路线的主要内容"
+									},
+									{
+										"id": "hdatmsgb",
+										"text": "3.党在过渡时期的总路线的理论依据",
+										"children": [
+											{
+												"id": "ivgufrlf",
+												"text": "(1)理论依据"
+											},
+											{
+												"id": "askoildl",
+												"text": "(2)中国化的过渡时期理论"
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "ongleqwn",
+				"text": "第二节 社会主义改造道路和历史经验",
+				"side": "right",
+				"children": [
+					{
+						"id": "qaxvcdsy",
+						"text": "一、适合中国特点的社会主义改造道路",
+						"children": [
+							{
+								"id": "iirdrkgl",
+								"text": "<i>(一)适合我国情况的农业社会主义改造道路</i>"
+							},
+							{
+								"id": "pbmahrfa",
+								"text": "<b>(二)手工业的社会主义改造</b>"
+							},
+							{
+								"id": "ahwfiust",
+								"text": "(三)资本主义工商业的社会主义改造",
+								"children": [
+									{
+										"id": "gcmvqhuw",
+										"text": "1.和平赎买的方法改造资本主义工商业",
+										"children": [
+											{
+												"id": "talzmscs",
+												"text": "(1)赎买的含义"
+											},
+											{
+												"id": "yxyxtack",
+												"text": "(2)实行和平赎买的现实可能性"
+											}
+										]
+									},
+									{
+										"id": "bhvirpzu",
+										"text": "2.采取从低级到高级的国家资本主义的过渡形式",
+										"children": [
+											{
+												"id": "nkplunrg",
+												"text": "(1)国家资本主义的含义"
+											},
+											{
+												"id": "jpkebogl",
+												"text": "(2)国家资本主义的形式"
+											},
+											{
+												"id": "rmovding",
+												"text": "(3)对资本主义工商业的社会主义改造步骤"
+											}
+										]
+									},
+									{
+										"id": "jvvblugx",
+										"text": "<u>3.把资本主义工商业者改造为自食其力的社会主义劳动者</u>"
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "kqjuvrbz",
+						"text": "二、社会主义改造的历史经验",
+						"children": [
+							{
+								"id": "ndtgvium",
+								"text": "(一)社会主义改造的历史经验"
+							},
+							{
+								"id": "wnkoqezi",
+								"text": "(二)社会主义改造的基本完成是一个伟大的历史性胜利"
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "qaaslcvo",
+				"text": "第三节 社会主义制度在中国的确立",
+				"side": "right",
+				"children": [
+					{
+						"id": "iwhsbfdv",
+						"text": "<b>一、社会主义基本制度的确立及其理论依据</b>",
+						"children": [
+							{
+								"id": "yjkxjtck",
+								"text": "(一)社会主义改造的基本完成"
+							},
+							{
+								"id": "pjpmdegz",
+								"text": "(二)社会主义制度在我国的确立",
+								"children": [
+									{
+										"id": "egiykhcx",
+										"text": "1.以生产资料公有制危机产的社会主义经济制度已经建立起来"
+									},
+									{
+										"id": "hictwnic",
+										"text": "2.我国的政治领域也发生里重大变化，我国的人民民主政治建设在有步骤地向前推进"
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "orvdmapx",
+						"text": "<b>二、确立社会主义基本制度的重大意义</b>"
+					}
+				]
+			}
+		]
+	}
+}

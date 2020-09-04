@@ -137,9 +137,13 @@ $|a|-|b| \le |a\pm b|\le |a|+|b|$
 
 ![正切二倍角](https://bkimg.cdn.bcebos.com/formula/0a86695a90badbab6599f2d5f3b0f23d.svg)
 
+***
 
+#### 扇形面积公式
 
+$$S=\frac{1}{2}\theta r^2$$
 
+$S=\frac{1}{2}lr$
 
 
 

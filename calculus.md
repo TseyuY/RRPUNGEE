@@ -78,7 +78,7 @@ $\sin x-\sin y=2\cos\frac{x+y}{2}\sin\frac{x-y}{2}$
 
 $\cos x+\cos y=2\cos\frac{x+y}{2}\cos\frac{x-y}{2}$
 
-$\cos x+\cos y=-2\sin\frac{x+y}{2}\sin\frac{x-y}{2}$
+$\cos x-\cos y=-2\sin\frac{x+y}{2}\sin\frac{x-y}{2}$
 
 正加正，正在前。余加余，余并肩。
 
